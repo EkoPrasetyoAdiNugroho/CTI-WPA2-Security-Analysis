@@ -304,16 +304,6 @@ The assessment therefore highlights the importance of:
 
 ---
 
-## 🔗 Project Links
-
-**GitHub Repository:**
-`https://github.com/USERNAME/CTI-WPA2-Security-Analysis`
-
-**YouTube Demonstration:**
-`https://youtu.be/YOUR_VIDEO_ID`
-
----
-
 ## 📜 License
 
 This project was created for **academic and educational cybersecurity research purposes**.
